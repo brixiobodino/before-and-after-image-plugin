@@ -1,0 +1,138 @@
+table,td,td,th{
+	border-bottom: 1px solid #CFD8DC;
+	border-collapse: collapse;
+}
+td,th{
+	padding: 10px;
+	color:white;
+}
+label{
+	margin-right: 10px;
+}
+
+input[type="text"]{
+	width: 80%;
+	margin-bottom: 10px;
+	border:1px solid #CFD8DC;
+}
+input[type="submit"]{
+	background:#1da1f2;
+	color:#fff;
+	width: 100px;
+	border:none;
+	padding:10px;
+}
+#after{
+	margin-right: 20px;
+}
+table{
+	margin-right:20px;
+	width: 95%;
+	margin:auto;
+	background: #fff;  /* fallback for old browsers */
+	box-sizing:border-box;
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+}
+th{
+	background: ;  /* fallback for old browsers */
+	color:#000;
+	padding: 15px;
+	border-bottom: 2px solid #CFD8DC;
+}
+#shortcode_text{
+	color:#000;
+}
+#bae_id{
+	color:#000;
+}
+.form{
+	width: 95%;
+	
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+	padding:20px;
+	margin:auto;
+	background:#fff;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	box-sizing: border-box;
+}
+.bodino-uploader{
+	margin: 0 auto;
+	width: 60%;
+	background: red;
+	float: right;
+}
+.fa-edit{
+	font-size: 20px;
+}
+.fa-edit:hover{
+	font-weight: 400;
+}
+.fa-trash-alt{
+	font-size: 20px;
+	color:#C62828;
+}
+.fa-trash-alt:hover{
+	font-weight: 400;
+	
+	color:#F44336;
+}
+.fa-eye{
+	font-size: 20px;
+	color: #37474F;
+
+}
+.fa-eye:hover{
+	
+	color: #00B8D4;
+}
+.dashboard_title{
+	
+	width: 95%;
+	margin:auto;
+	padding: 10px;
+	box-sizing: border-box;
+}
+.dashboard_title H3{
+	color:#000;
+}
+.close_preview{
+	float: right;
+	color: #C62828; 
+	cursor: pointer;
+	font-size: 25px;
+	padding: 3px;
+}
+.close_preview:hover{
+	color: red; 
+	font-weight: 700;
+	text-decoration: underline;
+}
+.close_preview a{
+	color: #C62828; 
+	text-decoration: none;
+}
+.opacity{
+	
+}
+.main_content{
+
+}
+#left,#right,#left img,#right img{
+	
+}
+#mainDiv{
+				width:90%;
+				margin: auto;
+				max-width:600px;
+				margin:auto;
+			}
+.bodino_dashboard {
+    background: rgb(227, 237, 254);
+    padding-bottom: 20px;
+   	padding-top:20px;
+
+}
+tr:nth-of-type(even){
+	background: rgb(242, 242, 242);
+}
